@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-    cout<<"mohamed\n";
+    cout<<"mohamed mahmoud\n";
 }
